@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Faruk
+- 👀 I’m interested in Data Science, Machine Learning and AI.
+- 🌱 I’m currently learning Data Science and Statistics.

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
 - 🔭 I’m currently working on **Asklepios Medical App**
 
-- 💬 Ask me about **Python, Djnago, Unity**
+- 💬 Ask me about **Python, Djnago, Unity and Godot**
 
 - 📫 How to reach me **ce.farukyolcu@gmail.com**
 

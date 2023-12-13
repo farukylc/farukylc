@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/farukylc](https://github.com/farukylc)
 
-- 💬 Ask me about **Python, Unity, Django and Godot**
+- 💬 Ask me about **.NET Core, Python, Unity, Django and Godot**
 
 - 📫 How to reach me **ce.farukyolcu@gmail.com**
 
